@@ -1,0 +1,9 @@
+    Pentru a folosi aplicatia la maxima capacitate, trebuie sa fie adaugate urmatoarele:
+
+        - fisierele din folderul arhivat in CreareTestExport.rar trebuie copiate in folderul application.windows32 fara exporturi\data din arhiva EzGraphsExport - fara aplicatii.rar
+
+        - fisierele din folderul arhivat in CreareTemaExport.rar trebuie copiate in folderul application.windows32 fara exporturi\data2 din arhiva EzGraphsExport - fara aplicatii.rar
+
+        - fisierele din folderul arhivat in AdaugareLectieExport.rar trebuie copiate in folderul application.windows32 fara exporturi\data3 din arhiva EzGraphsExport - fara aplicatii.rar.
+
+    Aplicatia va functiona si fara aceste modificari, insa anumite facilitati nu vor fi disponibile.
